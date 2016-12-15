@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PWC</string>
+    <!--  <string name="app_name">PWC</string>   -->
+    <string name="step1hd">SPECIAL-PURPOUSE VEHICLE DETAILS</string>
+    <string name="h1">Enter name of spv</string>
+    <string name="h2">Enter shot form of spv</string>
+    <string name="ht5">percentage of amount expended out of total Capital Cost in case of pre COD project</string>
+    <string name="he5"> Enter percentage</string>
+    <string name="h6">share capital in the spv</string>
+    <string name="h7">Sponsor stake in the spv that is proposed to be transferred</string>
+    <string name="ht8">Category</string>
+    <string name="he8">Company</string>
+    <string name="ht9">Industry to which the spv belongs</string>
+    <string name="he9">Real Estate</string>
+    <string name="ht10">Location</string>
+    <string name="he10">HYD</string>
+    <string name="ht11">percentage of completion of construction in case of Pre COD Project</string>
+    <string name="he11">Enter Percentage</string>
+    <string name="h12">Remaining life of the project in spv</string>
+    <string name="h13">Debt in spv</string>
+    <string name="h14">Existing Interest rate on the debt</string>
+
+
+    <string name="step2hd">FUND RAISE RELATED QUERIES</string>
+    <string name="ha1">Percentage of the existing debt to be repaid from the fund raise</string>
+    <string name="ha1_1">80%</string>
+    <string name="ha2">How much funds the sponsor proposes to raise in addition to the debt repayment above</string>
+    <string name="ha2_1">5,000,000,000</string>
+    <string name="ha3">Discounting rate(Investor expectation)</string>
+    <string name="ha3_1">12%</string>
+
+
+    <string name="step3hd">DETAILS OF THE SPONSOR</string>
+    <string name="hb1">Name</string>
+    <string name="hb1_1">XYZ Limited</string>
+    <string name="hb2">Short form for the Sponsor</string>
+    <string name="hb2_1">Xyz</string>
+    <string name="hb3">No. of Sponsors</string>
+    <string name="hb4">Whether the Sponsor is Company,LLP or Body Corporate</string>
+    <string name="hb5">Residential status of the sponsor</string>
+    <string name="hb5_1">Enter Percentage</string>
+    <string name="hb6">Net Worth of the Sponsor</string>
+    <string name="hb6_1">5,000,000,000</string>
+    <string name="hb7">No of years of experience in development of infrastructure or fraud management in infrastructure sector of Sponsor/its associate</string>
+    <string name="hb7_1">7 Years</string>
+    <string name="hb8">If the Sponsor is a Developer,no of projects completed</string>
+    <string name="hb8_1">6</string>
+    <string name="hb9">Wheter the Sponsor is a Developer</string>
+    <string name="hb9_1">Yes</string>
+
+
+    <string name="step4hd">DETAILS OF THE INVESTMENT MANAGER</string>
+    <string name="hc1">Name of the Investment Manager</string>
+    <string name="hc1_1">XYZ Limited</string>
+    <string name="hc2">Whether the Sponsor is Company,LLP or Body Corporate</string>
+    <string name="hc3">No of Independent Directors or members in the Investment Manager Co,Body Corporate or LLP</string>
+    <string name="hc3_1">4</string>
+    <string name="hc4">Shortform for the Investment Manager</string>
+    <string name="hc4_1">PQR</string>
+    <string name="hc5">Net Worth of the Investment Manager</string>
+    <string name="hc5_1">5,000,000,000</string>
+    <string name="hc6">No of employees of Investment Manager who have the above qualification</string>
+    <string name="hc6_1">3</string>
+    <string name="hc7">No of years of experience in fund management of advisory services or development in the infrastructure sector of Investment Manager</string>
+    <string name="hc7_1">5</string>
+    <string name="hc8">No of employee of Investment Manager who has atleast 5years of experience in sub sector in which the InvIT invests</string>
+    <string name="hc8_1">3</string>
+
+</resources>
